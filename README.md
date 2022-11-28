@@ -3,6 +3,8 @@
 ## プルリクエスト
 
 [参考：プルリクエストとは？一連の流れとやり方](https://backlog.com/ja/git-tutorial/pull-request/01/)
+[参考：Gitを使ってForkからPull Requestを投げるまで](https://qiita.com/takamii228/items/80c0996a0b5fa39337bd)
+
 
 ## Gitコマンドメモ
 
